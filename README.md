@@ -4,4 +4,13 @@ The program teaches a bird how to fly optimally, safely through barriers as long
 
 ## Getting Started
 
-App is currently still in development, and not ready to be deployed
+Game/APP is currently still in development, and not ready to be deployed
+
+## Built with
+
+* Javascript
+* HTML
+
+## Sole contributor
+
+Rashad Roman https://github.com/Threeeyeking
